@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\danie\OneDrive - Marshall University\Spring 2022\CIT-485\independentstudy\a1_hartley\a1_hartley\main.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\OneDrive - Marshall University\Spring 2022\CIT-485\independentstudy\a1_hartley\a1_hartley\main.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Timer.cpp
+  Generating Code...
+  a1_hartley.vcxproj -> C:\Users\danie\OneDrive - Marshall University\Spring 2022\CIT-485\independentstudy\a1_hartley\Debug\a1_hartley.exe
